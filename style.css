@@ -1,0 +1,78 @@
+body{
+    background-color: #205375;
+    font-family: 'Roboto', sans-serif;
+    color: #F66B0E;
+
+}
+
+h1{
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 50px;
+}
+.info{ 
+    font-weight: lighter;
+    
+}
+.answer{
+    letter-spacing: 7px;
+}
+
+
+
+.walking { background: url(https://images.pexels.com/photos/631986/pexels-photo-631986.jpeg);
+    width: 70%;
+    height: 500px;
+    background-size: cover;    
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: #112B3C;
+    text-shadow: 2px 2px 10px white;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+.eating { background: url(https://images.pexels.com/photos/2664443/pexels-photo-2664443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    width: 70%;
+    height: 500px;
+    background-size: cover;    
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: #112B3C;
+    text-shadow: 2px 2px 10px white;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
+.travel { background: url(https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    width: 70%;
+    height: 500px;
+    background-size: cover;    
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: #112B3C;
+    text-shadow: 2px 2px 10px white;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
+.friends { background: url(https://images.pexels.com/photos/1267693/pexels-photo-1267693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    width: 70%;
+    height: 500px;
+    background-size: cover;    
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: #112B3C;
+    text-shadow: 2px 2px 10px white;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
